@@ -13,7 +13,6 @@ int main()
     system("cls");
 
     int n;
-    bool check = false;
     std::cout << Lab1::ENTER_N;
     std::cin >> n;
 
