@@ -1,7 +1,7 @@
-// Лабораторную работу выполнил студент 1 курса
-// Направление: Математическое обеспечение и администрирование информационных систем
-// Флягин Алексей Иванович
-// Вариант 8
+// The laboratory work was performed by a 1st year student
+// Direction: Mathematical support and administration of information systems
+// Option: 8
+// Flyagin Alexey
 
 #include <algorithm>
 #include <iostream>
